@@ -67,6 +67,6 @@ mvn spring-boot:run
 ## 👨‍💻 Author
 
 **Vishal Kathpalia**  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 vishal.kathpalia@example.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/er-vishal-kathpalia/)  
+- 📧 vishalkathpalia99@gmail.com
 
